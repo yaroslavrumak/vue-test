@@ -1,0 +1,19 @@
+{
+    "title": "Root element",
+    "children": [
+        {
+            "title": "Nested element 1.1"
+        },
+        {
+            "title": "Nested element 1.2",
+            "children": [
+                {
+                    "title": "Nested element 2.1"
+                },
+                {
+                    "title": "Nested element 2.2"
+                }
+            ]
+        }
+    ]
+}
